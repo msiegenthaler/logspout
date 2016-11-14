@@ -133,7 +133,7 @@ The standard distribution of logspout comes with all modules defined in this rep
  * logspout-redis...
  * [logspout-logstash](https://github.com/looplab/logspout-logstash)
  * [logspout-redis-logstash](https://github.com/rtoma/logspout-redis-logstash)
- * [logspout-gelf](https://github.com/micahhausler/logspout-gelf)
+ * [logspout-gelf](https://github.com/pmahoney/logspout-gelf)
 
 ### Loggly support
 
